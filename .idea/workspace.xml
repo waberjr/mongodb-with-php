@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4816b48-47ba-49c3-a721-6a014c99e42b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="9febf184-c530-4294-9e9e-a3dab36a0c31" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/mongodb/mongodb" />
+      <path value="$PROJECT_DIR$/vendor/jean85/pretty-package-versions" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iT3L0GCrBrQNv6QzBH1bSe3uWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phpmongodb\source" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4816b48-47ba-49c3-a721-6a014c99e42b" name="Default Changelist" comment="" />
+      <created>1601917695091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601917695091</updated>
+      <workItem from="1601917696178" duration="5562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="225" key="#CLI_Interpreters" timestamp="1601917958885">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="67" y="225" key="#CLI_Interpreters/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601917958885" />
+    <state x="263" y="437" width="447" height="278" key="ComposerInitDialogKey" timestamp="1601917962026">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="263" y="437" width="447" height="278" key="ComposerInitDialogKey/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601917962026" />
+    <state x="266" y="311" key="FileChooserDialogImpl" timestamp="1601917843612">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="266" y="311" key="FileChooserDialogImpl/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601917843612" />
+    <state x="321" y="448" key="NewPhpFileDialog" timestamp="1601923255173">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="321" y="448" key="NewPhpFileDialog/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601923255173" />
+    <state x="39" y="155" key="SettingsEditor" timestamp="1601920174004">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="39" y="155" key="SettingsEditor/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601920174004" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601922473673">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601922473673" />
+    <state x="150" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1601922470770">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="150" y="231" width="672" height="678" key="search.everywhere.popup/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601922470770" />
+  </component>
+</project>

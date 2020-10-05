@@ -1,0 +1,15 @@
+{
+  "name": "waberjr/phpmongodb",
+  "description": "My first project using mongodb with php",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Waber Jr",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "mongodb/mongodb": "1.7.0"
+  }
+}
